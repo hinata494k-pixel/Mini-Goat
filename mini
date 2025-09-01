@@ -1,1 +1,7 @@
-
+arlert(bonjour) 
+var nom ='mini fidel'
+let age =  18
+const mineur = (age < 18) 
+if(mineur) {
+console.log(vous êtes mineurs) } else{
+console.log(vous êtes majeur) }
